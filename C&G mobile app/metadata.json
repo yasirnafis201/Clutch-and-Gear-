@@ -1,0 +1,6 @@
+{
+  "name": "Clutch & Gear",
+  "description": "AI-Powered Vehicle Intelligence Platform with real-time OBD-II telemetry, DTC diagnostics, trend analysis, and vehicle maintenance assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
